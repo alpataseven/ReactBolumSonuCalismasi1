@@ -8,11 +8,15 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <App />
   </React.StrictMode>,
 )
+/*
+Yapılacak işlemler:
 
-//TODO: Pico css kullanilsin
-//TODO: Ana Görsel Olsun
-//TODO: Altında 5 adet küçük görsel olsun
-//TODO: kucuk gorsellerden birine tiklaninca ana gorsel degissin
-//TODO: gorseller lorem picsumdan alinsin
-//TODO: default olarak 200 no lu id secilsin
-//TODO: gorseller array olarak [200, 201, 202, 203, 204]
+- [x]: Pico css kullanilsin
+- [x]: Ana Görsel Olsun
+- [x]: Altında 5 adet küçük görsel olsun
+- [x]: kucuk gorsellerden birine tiklaninca ana gorsel degissin
+- [x]: gorseller lorem picsumdan alinsin
+- [x]: default olarak 200 no lu id secilsin
+- [x]: görseller array olarak [200, 235, 121, 777, 204]
+
+*/
